@@ -27,7 +27,7 @@ namespace 期中考練習第一題
 
         private void apple_Click(object sender, RoutedEventArgs e)
         {
-            boxtext.Text =
+            boxtext.Text = "hello world";
         }
     }
 }
